@@ -69,11 +69,18 @@ Toutes les expériences et leurs explications sont disponibles dans le notebook 
 
 ## How to Use
 
-1. Install the dependencies:  
+1. Cloner le repository du projet.
+2. Décompresser `weights.zip` et le placer dans le dossier [projet](./).
+3. Décompresser `data.zip` et le placer dans le dossier [projet](./) (le dossier [data](./data) initialement présent dans le repository peut être supprimer).
+2. Installer les dépendances :  
    ```bash
    pip install loguru numpy matplotlib torch transformers
    ```
-3. Run the notebook [`VQA_Demo.ipynb`](./VQA_Demo.ipynb).
+3. Lancer the notebook [`VQA_Demo.ipynb`](./VQA_Demo.ipynb).
+
+---
+
+Note : Pour lancer [`NLP_VQA_Project.ipynb`](./NLP_VQA_Project.ipynb) il faut en plus télécharger les fichiers de données complet de VizWiz : folder `train`/`val` qui contients les images, et fichier d'annotations  `train.json` disponible sur ce [lien](https://vizwiz.org/tasks-and-datasets/vqa/).
 
 
 
