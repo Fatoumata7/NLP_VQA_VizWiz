@@ -1,0 +1,4902 @@
+[
+  {
+    "image": "VizWiz_val_00000001.jpg",
+    "question": "Can you tell me what this medicine is please?",
+    "answers": [
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time cold medicine",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time medicine",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the name of this medicine?"
+  },
+  {
+    "image": "VizWiz_val_00000002.jpg",
+    "question": "What is the title of this book? ",
+    "answers": [
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years: memoir",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the name of this book?"
+  },
+  {
+    "image": "VizWiz_val_00000003.jpg",
+    "question": "Which one is the blue one?",
+    "answers": [
+      {
+        "answer": "right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "omni sorb",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "1 on right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "on right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right 1",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right 1",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the color of the first object?"
+  },
+  {
+    "image": "VizWiz_val_00000005.jpg",
+    "question": "What the screen says? Thank you.",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dell",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "windows 7",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows 7",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dell windows home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows 7",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows dell",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000009.jpg",
+    "question": "Can you describe for me what's going on outside the window? Just curious.",
+    "answers": [
+      {
+        "answer": "store front",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nothing going outside window just building windows sign to right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nothing",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nothing",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nothing",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nothing",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sun shining on building on corner trees next to",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "building",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What's happening outside the window?"
+  },
+  {
+    "image": "VizWiz_val_00000011.jpg",
+    "question": "What color is this",
+    "answers": [
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "light purple",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "light purple",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the color of the given object?"
+  },
+  {
+    "image": "VizWiz_val_00000015.jpg",
+    "question": "Which one of these items is the children's dictionary? Is it the one on the right, or the one on the left?",
+    "answers": [
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "right",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "left",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "Which is the children's dictionary?"
+  },
+  {
+    "image": "VizWiz_val_00000016.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer": "finger",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "person",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "instructions",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "thumb",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "finger",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000018.jpg",
+    "question": "What is the computer doing?",
+    "answers": [
+      {
+        "answer": "rebooting",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "repair mode",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "looks like rebooting",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bios",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "booting up",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "loading",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "starting up",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "loading",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the computer processing?"
+  },
+  {
+    "image": "VizWiz_val_00000021.jpg",
+    "question": "What is this color and pattern? There's some sort of pattern on my left chest there. Describe. ",
+    "answers": [
+      {
+        "answer": "plain white uspa logo in gold",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "emblem polo rider initials uspa",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "brown uspa",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "brown white uspa",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "orange polo logo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "red polo association brand logo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "red uspa letters hiking man",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white us polo",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "brown polo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "brown on white polo rider letters",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What's the description of the pattern and color on your left chest?"
+  },
+  {
+    "image": "VizWiz_val_00000022.jpg",
+    "question": "Can you tell what this is?",
+    "answers": [
+      {
+        "answer": "bottle something dropper lid",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bottle meds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "some kind drops",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dropper bottle",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "medicine",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dropper bottle",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "nose drops",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bottle dropper",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000023.jpg",
+    "question": "Can you tell me what the error message is on the Windows screen?",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "starting windows",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "starting windows",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "starting windows",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "no error windows starting up",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "starting windows",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no error",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the error message displayed on the Windows screen?"
+  },
+  {
+    "image": "VizWiz_val_00000024.jpg",
+    "question": "Sometimes it does this too.  It's great when it works, but when it doesn't, it's annoying.",
+    "answers": [
+      {
+        "answer": "doing disk check",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "check disk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer update",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "error message on computer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "disk check",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "chkdsk running",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What's annoying about it when it doesn't work?"
+  },
+  {
+    "image": "VizWiz_val_00000025.jpg",
+    "question": "I was wondering how ominous the sky is looking here at the northwest.",
+    "answers": [
+      {
+        "answer": "fairly but could be worse",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dark stormy",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dark cloudy",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "possible rain",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "very ominous",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "looks pretty cloudy",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "very",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "ominous",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "looks like rain",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the northwest sky look like now?"
+  },
+  {
+    "image": "VizWiz_val_00000026.jpg",
+    "question": "Can you tell me what these are please?",
+    "answers": [
+      {
+        "answer": "tablets",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no i cant",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "pills",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "pills",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "tablets",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "citalopram 20mg tablets",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "20 mg tablets something",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What are these?"
+  },
+  {
+    "image": "VizWiz_val_00000028.jpg",
+    "question": "Is this a woman?>",
+    "answers": [
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "Is this an adult female?"
+  },
+  {
+    "image": "VizWiz_val_00000029.jpg",
+    "question": "What does it say?",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "quit",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "for while force quit",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "for while quit",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "quit",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "quit",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "ond for while rce quit",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the text state?"
+  },
+  {
+    "image": "VizWiz_val_00000031.jpg",
+    "question": "Can anyone tell me what's actually on the screen of the laptop?",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "recovery screen some kind",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "samsung recovery solution",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "samsung recovery",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "recovery",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "recovery solution",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "recovery solution screen",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the laptop screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000032.jpg",
+    "question": "Can you tell me what this is a picture of?",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "web browser",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "splitscreen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is depicted in the image?"
+  },
+  {
+    "image": "VizWiz_val_00000034.jpg",
+    "question": "How big do you think my TV is? Thank you.",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "32 inches",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "27 inches",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "22 inch",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "20 inch",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "30 inches",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "15 inches",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "32 inch",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "30 inch",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the size of your TV?"
+  },
+  {
+    "image": "VizWiz_val_00000036.jpg",
+    "question": "What is the title of this book?",
+    "answers": [
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog years",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What's the name of this book?"
+  },
+  {
+    "image": "VizWiz_val_00000037.jpg",
+    "question": "Hi, I just wanted to confirm that these are indeed pork chops. Any other information that is clear would be appreciated. Thank you.",
+    "answers": [
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes kirkland signature pork chops",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes porkchops",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes loin chops",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is the confirmation of the identity of the meat being pork chops?"
+  },
+  {
+    "image": "VizWiz_val_00000045.jpg",
+    "question": "What is the expiration date on this bus pass?",
+    "answers": [
+      {
+        "answer": "jul 08 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blurry",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "july 08 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "jul 08 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "july 8 2011",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "jul 0811",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "july 8 2011",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the validity period for this bus pass?"
+  },
+  {
+    "image": "VizWiz_val_00000047.jpg",
+    "question": "what is this we taking a picture of?",
+    "answers": [
+      {
+        "answer": "boobs",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "boobs",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "chest",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "fingers floral fabric part green shirt button pocket",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "chest",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "clothing",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cleavage",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "shirts",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "shirt",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What are we photographing?"
+  },
+  {
+    "image": "VizWiz_val_00000048.jpg",
+    "question": "What store is this?",
+    "answers": [
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "original pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "pancake house",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "pancake house",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the name of this store?"
+  },
+  {
+    "image": "VizWiz_val_00000049.jpg",
+    "question": "What kind of pop is this?",
+    "answers": [
+      {
+        "answer": "nestea",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nestle tea",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "orange nestea",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "orange juice",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "nestea",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "orange",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "nestle",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the type of this pop?"
+  },
+  {
+    "image": "VizWiz_val_00000053.jpg",
+    "question": "Hello there, are you able to see what's on this LCD screen and if it's expecting any input from the user, as in, does it have a next button, back button?",
+    "answers": [
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no cant see",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes has back next button",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes however words illegible",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "error alert dialog box 2 buttons ok cancel",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "Can you see if this LCD screen requires user input and what type it is (next button, back button, etc.)?"
+  },
+  {
+    "image": "VizWiz_val_00000054.jpg",
+    "question": "What's the name of the drink?",
+    "answers": [
+      {
+        "answer": "irnbru",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "irn bru",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "irnbru barr",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "barr irn bru sugar free",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "barr irn bru sugar free",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "irn bru",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "irn bru",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "irn barr bru",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "irn barr bru sugar free",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "irn bru",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is this drink called?"
+  },
+  {
+    "image": "VizWiz_val_00000055.jpg",
+    "question": "Where do you think I could get a power cord? ",
+    "answers": [
+      {
+        "answer": "forest hill maryland",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "amazon",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "biazie engineering",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blaze engineering",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "any hardware store",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is a good place to buy a power cord?"
+  },
+  {
+    "image": "VizWiz_val_00000057.jpg",
+    "question": "What is on the pillowcase?",
+    "answers": [
+      {
+        "answer": "texas logo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sports team logo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas longhorns",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas longhorn",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "texas",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What's the object on the pillowcase?"
+  },
+  {
+    "image": "VizWiz_val_00000060.jpg",
+    "question": "Please tell me the them of this book",
+    "answers": [
+      {
+        "answer": "clive cussler dirk cussler",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clive cussler dirk cussler",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clive cussler dirk cussler",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "sci fy",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "suspense",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "olive cussler dirk cussler",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "action",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "clive cussler",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the central theme of this book?"
+  },
+  {
+    "image": "VizWiz_val_00000061.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer": "email tab",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "desktop",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "close up computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "program window",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000064.jpg",
+    "question": "What is the person doing?",
+    "answers": [
+      {
+        "answer": "looking at computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "watching computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "working on computer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "looking at computer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sitting",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "looking at computer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sitting at computer",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "looking at screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computing",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "sitting at desktop computer on desk",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What action is the person performing?"
+  },
+  {
+    "image": "VizWiz_val_00000068.jpg",
+    "question": "What does the screen say?",
+    "answers": [
+      {
+        "answer": "windows please",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "image cutoff cant read",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "please wait",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "please wait windows",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000069.jpg",
+    "question": "Can you tell me what this bottle says?",
+    "answers": [
+      {
+        "answer": "warm vanilla sugar",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sugar",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "warm vanilla sugar",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "warm vanilla sugar",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "warm vanilla sugar body lotion",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "warm vanila sugar",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "warm vanilla sugar body lotion",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "warm vanilla sugar",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "warm vanilla sugar body lotion",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "warm vanilla sugar",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is written on the bottle?"
+  },
+  {
+    "image": "VizWiz_val_00000072.jpg",
+    "question": "what does the sky look like in this photograph",
+    "answers": [
+      {
+        "answer": "cloudy",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue sky some clouds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue few clouds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clear",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sunny",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clear",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "clear",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cloudy",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "partly cloudy sky",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the appearance of the sky in this photograph?"
+  },
+  {
+    "image": "VizWiz_val_00000075.jpg",
+    "question": "Is there anything on the screen?",
+    "answers": [
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "install mac computer",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "install mac",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "install mac",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What do you see on the screen?"
+  },
+  {
+    "image": "VizWiz_val_00000077.jpg",
+    "question": "What's on my computer screen?",
+    "answers": [
+      {
+        "answer": "pop up window",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "error message",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white card blue line",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "open window",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "white box",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "box",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What do you see on your computer screen?"
+  },
+  {
+    "image": "VizWiz_val_00000078.jpg",
+    "question": "Can see what's on the screen, like is it a log in screen or anything like that? Thank you.",
+    "answers": [
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "error message",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "insert password reset disk dialog box",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What can I determine by looking at the screen?"
+  },
+  {
+    "image": "VizWiz_val_00000079.jpg",
+    "question": "What is this a medal for?",
+    "answers": [
+      {
+        "answer": "america cancer society",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cancer",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "running",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "cancer society",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "american cancer society",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "american cancer society relay for life",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "american cancer society",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "american cancer society",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the purpose of this medal?"
+  },
+  {
+    "image": "VizWiz_val_00000080.jpg",
+    "question": "What is this show? ",
+    "answers": [
+      {
+        "answer": "news stream",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "csi: crime scene investigation",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "csi crime scene investigation",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "csi",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "csi: crime scene investigation",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "csi",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "csi crime scene investigation",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the title of this show?"
+  },
+  {
+    "image": "VizWiz_val_00000084.jpg",
+    "question": "IS there a picture on this tv screen?",
+    "answers": [
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows icon",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is displayed on the TV screen?"
+  },
+  {
+    "image": "VizWiz_val_00000085.jpg",
+    "question": "please explain what is on this piece of paper",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "stress advertisement",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "stress relieve instructions",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "talks about stress relief",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "tips to manage stress",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "stress",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "managing stress eating right",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "how to heal stress",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does this paper contain?"
+  },
+  {
+    "image": "VizWiz_val_00000089.jpg",
+    "question": "What does the screen say?",
+    "answers": [
+      {
+        "answer": "file",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "expanding windows filters",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "thats all information we need right now your computer will resume installation",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "expanding windows files",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000090.jpg",
+    "question": "Is the dialogue more visible in that picture?",
+    "answers": [
+      {
+        "answer": "bored",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is the level of dialogue visibility in the picture?"
+  },
+  {
+    "image": "VizWiz_val_00000091.jpg",
+    "question": "What does the small label on this disc say?",
+    "answers": [
+      {
+        "answer": "3d disk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "prop quartics inc",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the disc label read?"
+  },
+  {
+    "image": "VizWiz_val_00000093.jpg",
+    "question": "Is this picture clear, and where are we now?",
+    "answers": [
+      {
+        "answer": "card",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes on windows repair screen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes hit close",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "Which is the current location depicted in this clear image?"
+  },
+  {
+    "image": "VizWiz_val_00000095.jpg",
+    "question": "Can you see what's on the screen?",
+    "answers": [
+      {
+        "answer": "you sure you want to cancel",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "confirm cancel notification",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What do you observe on the screen?"
+  },
+  {
+    "image": "VizWiz_val_00000096.jpg",
+    "question": "Is this caffeinated or decaffeinated?",
+    "answers": [
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "caffeinated",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What type of coffee is this?\n\nOne question: What is the nature of this coffee (caffeinated or decaffeinated)?"
+  },
+  {
+    "image": "VizWiz_val_00000099.jpg",
+    "question": "Alright. If you could tell what the screen says, that would be helpful, thank you",
+    "answers": [
+      {
+        "answer": "iniciar el escaneo de",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "iniciar el escaneo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "spanish text",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "iniciar el escaneo de cable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "inciar el escaneo de",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "elija",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the output of the following code snippet?\n\n```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n-"
+  },
+  {
+    "image": "VizWiz_val_00000100.jpg",
+    "question": "Can you see the dosage information? Thank you.",
+    "answers": [
+      {
+        "answer": "heavy power",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is the dosage information you can see?"
+  },
+  {
+    "image": "VizWiz_val_00000101.jpg",
+    "question": "Is their text on this computer screen?",
+    "answers": [
+      {
+        "answer": "overy options",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes recovery options",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is displayed on this computer screen?"
+  },
+  {
+    "image": "VizWiz_val_00000102.jpg",
+    "question": "this is a picture of a home i'm planning to buy, does it look like its in a safe neighborhood? ",
+    "answers": [
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is the appearance of this home suggest about its neighborhood safety?"
+  },
+  {
+    "image": "VizWiz_val_00000108.jpg",
+    "question": "What does this screen say?",
+    "answers": [
+      {
+        "answer": "expanding windows files 52%",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "expanding windows files",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "expanding windows files 52%",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "expanding windows files",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "thats all they need",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "expanding windows files",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "expanding windows files",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "expanding windows",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does this screen convey?"
+  },
+  {
+    "image": "VizWiz_val_00000112.jpg",
+    "question": "Please describe this page. Thank you.",
+    "answers": [
+      {
+        "answer": "store ad",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "has prices pics various sale products",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "ad for sporting goods store",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "camping supplies",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sales flyer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "local ad for store",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "coupons",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "ad",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sale ad",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "coupons for store",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is this page about?"
+  },
+  {
+    "image": "VizWiz_val_00000113.jpg",
+    "question": "What are the letters I need to enter in?",
+    "answers": [
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "kej",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What letter should I enter next?"
+  },
+  {
+    "image": "VizWiz_val_00000114.jpg",
+    "question": "Is it impossible for you to read the captcha image in this picture? Thanks.",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "Can you read the captcha image in this picture?"
+  },
+  {
+    "image": "VizWiz_val_00000115.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer": "chest",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "purple tank top on woman",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "picture breast",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "dog",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "rash some kind",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "chest",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "chest",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sunburned chest",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "boobs",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000122.jpg",
+    "question": "What is this item?",
+    "answers": [
+      {
+        "answer": "mexican steak marinade",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bottle",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "bottled sauce",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "marinade",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "hot sauce",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bottle sauce",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000123.jpg",
+    "question": "Yeah, it should be fine, I'm just trying to post it online so someone can see all the inputs and connectors and things like that. If you can see those, then yeah, email it to me at mike@melo.com",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes i will",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "inputs connectors visible",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "cannot see lettering connections",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "you can see them",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "everything can be seen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "Revised question: Can you please email me the diagram containing all the inputs, connectors, and other relevant details to mike@melo.com?"
+  },
+  {
+    "image": "VizWiz_val_00000124.jpg",
+    "question": "What drink is this?",
+    "answers": [
+      {
+        "answer": "hint",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bottle flavored water on desk",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "hint blackberry",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blackberry hint",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "hint",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "hint blackberry",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blackberry",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "hint blackberry",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blackberry hint",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blackberry flavored water",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the name of this beverage?"
+  },
+  {
+    "image": "VizWiz_val_00000125.jpg",
+    "question": "Can you tell me what this is a picture of?",
+    "answers": [
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen showing online chat session",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen showing comment box",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "online chat on computer screen",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is depicted in the image?"
+  },
+  {
+    "image": "VizWiz_val_00000127.jpg",
+    "question": "What does the screen say?",
+    "answers": [
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows home premium",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows 7 home premium",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "windows home premium",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000130.jpg",
+    "question": "Can you see a bottle in this picture? And if so, what is it?",
+    "answers": [
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes unknown",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is the object in the picture resembling a bottle?"
+  },
+  {
+    "image": "VizWiz_val_00000132.jpg",
+    "question": "What does this message say?",
+    "answers": [
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "successful restoration complete",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "registration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the meaning of this message?"
+  },
+  {
+    "image": "VizWiz_val_00000133.jpg",
+    "question": "Can you tell us what this screen says? Thanks.",
+    "answers": [
+      {
+        "answer": "something about remembering your password",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "next",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "if you need help will show you hint for your password",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "you remember you passwords will show you your hint next",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "hint for password",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "password setup screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "next",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "no not image full screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does this screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000134.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer": "computer screen",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "laptop skype logo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "help page for apple",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "skype",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "app store screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "iphone app store obama pacman",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "skype",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cannot see full screen",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000135.jpg",
+    "question": "Can you please tell me what is displayed on the screen?",
+    "answers": [
+      {
+        "answer": "words",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "error message",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "start up error",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "machine repair progress bar",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "loading screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "startup repair",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "bar",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "startup repair",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "startup repair your computer was unable to start",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is shown on the screen?"
+  },
+  {
+    "image": "VizWiz_val_00000136.jpg",
+    "question": "Tell me what this screen says because the computers not functioning properly and it gave another sound",
+    "answers": [
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "printer not responding",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the screen display? (Assuming the question refers to the computer screen)"
+  },
+  {
+    "image": "VizWiz_val_00000137.jpg",
+    "question": "What is on this piece of paper?  Thank you.",
+    "answers": [
+      {
+        "answer": "sales ad",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "coupon",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sales ads",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "store advertisement for clothing laser rangefinder arrows",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "store circular",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sales paper",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "sale ads",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "coupons",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "outdoor gear advertisement",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "store ad",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is written on this paper?"
+  },
+  {
+    "image": "VizWiz_val_00000138.jpg",
+    "question": "What does this say?What does this say?",
+    "answers": [
+      {
+        "answer": "medicare inquiry center po box 31647 tampa florida 33633 1586",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "business reply mail",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "address for medicare inquiry center",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "medicare inquiry center",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "business reply mail medicare inquiry center po box 31647 tampa fl 33633 1586",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "medicare inquiry center business reply mailer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "medicare inquiry center po box 31647 tampa fl 33633 1586",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "medicare inquiry center",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "medical inquiry center",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does this text mean?"
+  },
+  {
+    "image": "VizWiz_val_00000139.jpg",
+    "question": "What does this message say?",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restore complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restoration complete",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the meaning of this message?"
+  },
+  {
+    "image": "VizWiz_val_00000140.jpg",
+    "question": "Can you please describe to me what's on the page and its orientation? Thank you",
+    "answers": [
+      {
+        "answer": "sideways car sales ad",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "car dealership advertisement",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sales ad landscape",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "newspaper advertisement for automobiles",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "advertisement sideways",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cars for sale",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "sideways ad page",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "car dealership advertisements sideways",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "car sales ad rotated right 90 degrees",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "car dealership ad",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the content and orientation of the page?"
+  },
+  {
+    "image": "VizWiz_val_00000144.jpg",
+    "question": "What does this say?  Thank you.",
+    "answers": [
+      {
+        "answer": "mcafee your computer at risk check status",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "your computer at risk from mcafee message",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "mcafee antivirus",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "your computer at risk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "your computer at risk",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "your computer at risk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "your computer at risk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "your computer at risk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "mcafee",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does this text mean?"
+  },
+  {
+    "image": "VizWiz_val_00000145.jpg",
+    "question": "Can you see the steak on this menu?",
+    "answers": [
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes 18$",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What menu item contains the steak?"
+  },
+  {
+    "image": "VizWiz_val_00000147.jpg",
+    "question": "Can you tell what's on this paper?",
+    "answers": [
+      {
+        "answer": "water",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "grease",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "liquid stain",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "pay stub",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is written on this paper?"
+  },
+  {
+    "image": "VizWiz_val_00000149.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer": "bar code",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "computer monitor",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "picture on computer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "monitor",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "i cannot tell",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  },
+  {
+    "image": "VizWiz_val_00000153.jpg",
+    "question": "Can you tell me which medicine this is please?",
+    "answers": [
+      {
+        "answer": "night time cough syrup",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time for cold flu symptoms",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time cough syrup",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "cough cold nighttime",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "night time",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the name of this medicine?"
+  },
+  {
+    "image": "VizWiz_val_00000154.jpg",
+    "question": "What does this coupon say on it?",
+    "answers": [
+      {
+        "answer": "buy 1 pizza at menu price receive on pizza equal lesser value free expires 12 31 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza at menu price receive 1 equal lesser value free",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza at menu price receive 1 pizza equal lesser value free expires 12 31 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza get 1 free",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 get 1 free on pizza",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza at menu price",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza at menu price receive 1 pizza equal lesser value free expires 12 31 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza at menu price receive 1 pizza equal lesser value free expires 12 31 11",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "buy 1 pizza get 1 free",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the coupon state?"
+  },
+  {
+    "image": "VizWiz_val_00000156.jpg",
+    "question": "Can you tell what I'm playing?",
+    "answers": [
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "angry birds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "angry birds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "angry birds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "angry birds",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "angry birds",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What game am I currently playing?"
+  },
+  {
+    "image": "VizWiz_val_00000157.jpg",
+    "question": "Yes, can you please tell me what this screen says? I seem to have an error booting up my computer. ",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "some sort error message",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "american megatrends",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cannot read screen only half showing",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "american megatrends",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "list storage devices",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "storage device",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "american megatrends",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the error message when booting up the computer?"
+  },
+  {
+    "image": "VizWiz_val_00000159.jpg",
+    "question": "Help me with this capture.",
+    "answers": [
+      {
+        "answer": "casithwo",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "casithw0",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "casithwo",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the correct way to capture this data using Python?"
+  },
+  {
+    "image": "VizWiz_val_00000160.jpg",
+    "question": "Can you give me an idea of what's on the screen? Thank you.",
+    "answers": [
+      {
+        "answer": "links to sites",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "different chrome links like news products",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "menu",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "menu for computer programs",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "firefox email",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "links for russia",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "files",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "shortcuts",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "favorites",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What's displayed on the screen?"
+  },
+  {
+    "image": "VizWiz_val_00000161.jpg",
+    "question": "What is in this picture?",
+    "answers": [
+      {
+        "answer": "tv",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "tv screen car on clock other furniture",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "car",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "living room",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clock television tv stand rug electronic equipment",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "tv",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clock television below on low table",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "tv",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "clock tv basket rug",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "television",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What can you identify in this picture?"
+  },
+  {
+    "image": "VizWiz_val_00000162.jpg",
+    "question": "What does this say?",
+    "answers": [
+      {
+        "answer": "scan was completed",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "computer verifying files other parts system 1 at time",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "check disk",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "chkdsk verifying files",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "chkdsk progress",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "verifying files",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "29% complete",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "file records processed",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the meaning of this text?"
+  },
+  {
+    "image": "VizWiz_val_00000163.jpg",
+    "question": "What is that word?",
+    "answers": [
+      {
+        "answer": "entsursa",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "entsursa",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "erytslu2sa",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "entsursa",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "not word code all lowercase letters: e n t s u r s",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "emtsursa",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "entsursa",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "entsursa",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "entsursa",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the meaning of that word?"
+  },
+  {
+    "image": "VizWiz_val_00000165.jpg",
+    "question": "What does the top of this pamphlet say?",
+    "answers": [
+      {
+        "answer": "college area breadth requirement",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "college",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "collage requirements",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "college requirements",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "college requirements",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "college requirement",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "college area breadth requirement",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "college requirement",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is written at the top of the pamphlet?"
+  },
+  {
+    "image": "VizWiz_val_00000169.jpg",
+    "question": "What is in this can?",
+    "answers": [
+      {
+        "answer": "cola",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "soda",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "soda",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "soda",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "soda",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is contained in this can?"
+  },
+  {
+    "image": "VizWiz_val_00000170.jpg",
+    "question": "What color is this skirt?",
+    "answers": [
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the color of this skirt?"
+  },
+  {
+    "image": "VizWiz_val_00000172.jpg",
+    "question": "What's on this channel?",
+    "answers": [
+      {
+        "answer": "sports game",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "hockey game",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "maple leafs at rangers",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "maple leafs",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "sports team information",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "maple leafs at new york rangers",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What program is currently airing on this channel?"
+  },
+  {
+    "image": "VizWiz_val_00000173.jpg",
+    "question": "clouds in the sky look like",
+    "answers": [
+      {
+        "answer": "grey",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dark",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "white",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "helicopters",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "fluffy",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cloudy",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "fog",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "dinosaur helicopter",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "slightly grey",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the appearance of clouds in the sky suggest?"
+  },
+  {
+    "image": "VizWiz_val_00000174.jpg",
+    "question": "What does the screen say?",
+    "answers": [
+      {
+        "answer": "lenovo pop up unreadable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "lenovo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cannot see screen clearly",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "restore",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "system restore",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What does the screen display?"
+  },
+  {
+    "image": "VizWiz_val_00000175.jpg",
+    "question": "What does the text on this say?",
+    "answers": [
+      {
+        "answer": "asking for personal information on form",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "form to fill out",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "application for primary disability preventing you from reading regular printed material",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "address phone number",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "application",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "personal information",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the text's message?"
+  },
+  {
+    "image": "VizWiz_val_00000176.jpg",
+    "question": "What's going on on the computer screen?",
+    "answers": [
+      {
+        "answer": "just blue green screen",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "looks broken somewhat",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blank screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "all blue",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blank lines",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "blue screen",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is displayed on the computer screen?"
+  },
+  {
+    "image": "VizWiz_val_00000178.jpg",
+    "question": "What does this cartoon look like? Thank you.",
+    "answers": [
+      {
+        "answer": "black white 2 men facing each other",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "comic Comic strip",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "woman talking to man about ufo sucking people at bus stop into ufo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "black white",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "funny cartoon",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the depiction in this cartoon?"
+  },
+  {
+    "image": "VizWiz_val_00000183.jpg",
+    "question": "Is there text or any identifying identification on this side of the card?",
+    "answers": [
+      {
+        "answer": "no text identifying identification on side card",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What information can be found on this side of the card?"
+  },
+  {
+    "image": "VizWiz_val_00000184.jpg",
+    "question": "Is it more in focus now?",
+    "answers": [
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "blurry",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "yes",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "no",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "yes/no",
+    "answerable": 1,
+    "reform_question": "What is the current focus?"
+  },
+  {
+    "image": "VizWiz_val_00000186.jpg",
+    "question": "What is this CD?",
+    "answers": [
+      {
+        "answer": "technet",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "windows server 2008 r2",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "software",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "tech net subscription",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "technet subscription",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "tech net subscription",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "technet subscription",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "technet subscription",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "unanswerable",
+        "answer_confidence": "no"
+      },
+      {
+        "answer": "windows server 2008 r2 service pack 1 x64",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this CD?"
+  },
+  {
+    "image": "VizWiz_val_00000191.jpg",
+    "question": "What are the letters to enter in to obtain the prize?",
+    "answers": [
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "cjo",
+        "answer_confidence": "yes"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What letter combination must be entered to win the prize?"
+  },
+  {
+    "image": "VizWiz_val_00000192.jpg",
+    "question": "What is this?",
+    "answers": [
+      {
+        "answer": "room",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "television",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "shoes",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "tv",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "tv",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "computer",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "monitor",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "tv screen",
+        "answer_confidence": "yes"
+      },
+      {
+        "answer": "tv",
+        "answer_confidence": "maybe"
+      },
+      {
+        "answer": "television screen",
+        "answer_confidence": "maybe"
+      }
+    ],
+    "answer_type": "other",
+    "answerable": 1,
+    "reform_question": "What is the identity of this object?"
+  }
+]
